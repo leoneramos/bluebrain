@@ -11,25 +11,25 @@ class TerapUser {
 var terapusers = [
   TerapUser(
       id: '0',
-      name: 'Luisa Sonsa',
+      name: 'Fulana de Tal',
       discription: 'Cuido de crianças a mais de 20 anos.',
       role: 'Terapeuta',
       imageUrl: 'imagens/terapeuta_m.png'),
   TerapUser(
       id: '1',
-      name: 'Luiso Sonso',
+      name: 'Fulano de Tal',
       discription: 'Cuido de crianças a mais de 20 anos.',
       role: 'Terapeuta',
       imageUrl: 'imagens/terapeuta_f.png'),
   TerapUser(
       id: '0',
-      name: 'Luisa Sonsa',
+      name: 'Fulana de Tal',
       discription: 'Cuido de crianças a mais de 20 anos.',
       role: 'Terapeuta',
       imageUrl: 'imagens/terapeuta_m.png'),
   TerapUser(
       id: '1',
-      name: 'Luiso Sonso',
+      name: 'Fulano de Tal',
       discription: 'Cuido de crianças a mais de 20 anos.',
       role: 'Terapeuta',
       imageUrl: 'imagens/terapeuta_f.png'),

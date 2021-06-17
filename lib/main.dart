@@ -4,7 +4,11 @@ import 'package:parse_server_sdk_flutter/parse_server_sdk.dart';
 import 'package:splashscreen/splashscreen.dart';
 import 'package:docdoctes/screens/LoginScreen.dart';
 
-void main() async {
+Future<void> main() async {
+  const apiKey = 'emac7v6qqt6p';
+  const userToken =
+      'yphsdtvsa9rqq5py87apef25nrc454cruhtc7r6ayz6tc6vppzzqk9tjqyhwj2ac';
+
   WidgetsFlutterBinding.ensureInitialized();
   await initializeParse();
   runApp(MyApp());
